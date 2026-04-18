@@ -140,3 +140,12 @@ You can help by:
 ## 👨‍💻 Author
 
 **Dr. Maker**
+
+---
+
+## 📄 License
+
+This project uses a custom non-commercial license.  
+Commercial use and selling are not allowed.
+
+See the [LICENSE](LICENSE) file for details.
